@@ -10,6 +10,6 @@ Here are some ideas to get you started:
     dateFormat  YYYY-MM
     section Vladimir
     Yandex (assessor)        :done, 2022-01, 2022-02
-    Blogman (QA iOS)	  :after, 2022-02, 2022-04
+    Blogman (QA iOS)	  :done, 2022-02, 2022-04
     LiteFinance QA         :active, 2022-05, 2023-10
 ```
