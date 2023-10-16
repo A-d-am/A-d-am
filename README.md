@@ -35,7 +35,7 @@ gantt
             
     
 
-## 👨‍🎓Образование, курсы 
+## 👨‍🎓Education
 * qa.guru
 * software-testing.ru
 * Udemy    
