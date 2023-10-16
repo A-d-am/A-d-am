@@ -6,12 +6,10 @@
 Here are some ideas to get you started:
 ```mermaid
   gantt 
-    title In IT since 2018. Work experience (A Gantt chart was updated on 2023-08-01):
+    title In IT since 2022. Work experience (A Gantt chart was updated on 2023-08-01):
     dateFormat  YYYY-MM
     section Vladimir
-    Junior QA         :done, 2018-12, 90d
-    Manual Tester	  :done, 2019-03, 2019-09
-    Manual QA         :after, 2019-09, 2021-10
-    QA automation engineer     :active, 2020-06, current
+    Yandex (assessor)        :done, 2022-01, 2022-02
+    Blogman (QA iOS)	  :after, 2022-02, 2022-04
+    LiteFinance QA         :active, 2022-05, 2023-10
 ```
-
