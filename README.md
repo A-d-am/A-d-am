@@ -37,8 +37,8 @@ gantt
 
 ## 👨‍🎓Education
 * qa.guru
-* software-testing.ru
-* Udemy    
+* stepik.org
+* A1QA    
 
 
 
