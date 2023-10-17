@@ -6,7 +6,9 @@
 - Python one love 
 - Foosball guru 
 - Bookworm 
-
+- Contacts:
+<code><a href="https://t.me/batron_123"><img src="images/logo/Telegram.svg" width="40" height="40" title="My Telegram"></a></code>
+<code><a href="mailto:adam3928@mail.ru" target="blank"><img src="images/logo/Gmail.svg" height="40" width="40" title="My email"></a></code>
 
 
 <details>
