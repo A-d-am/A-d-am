@@ -6,10 +6,6 @@
 - Python one love 
 - Foosball guru 
 - Bookworm 
-- Contacts: 
-
-<code><img href="https://t.me/batron_123" src="images/logo/tg.png" width="40" height="40"  alt="A-d-am" title="Python"></code>
-<code><img href="adam3928@mail.ru" src="images/logo/Gmail.svg" width="40" height="40"  alt="A-d-am" title="Python"></code>
 
 
 
