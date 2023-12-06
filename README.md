@@ -35,7 +35,7 @@ gantt
     
 
 ## 👨‍🎓Education
-* qa.guru
+* qa.guru [check diploma](https://github.com/A-d-am/qa_guru_diploma)
 * stepik.org
 * A1QA    
 
